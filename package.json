@@ -1,0 +1,18 @@
+{
+  "name": "mainapi",
+  "version": "1.0.0",
+  "description": "API berisi data kependudukan Indonesia",
+  "main": "index.js",
+  "author": "Ahmad Husen <husenisme@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev pages",
+    "build": "vuepress build pages"
+  },
+  "dependencies": {
+    "buefy": "^0.8.20"
+  }
+}

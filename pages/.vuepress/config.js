@@ -6,5 +6,5 @@ module.exports = {
         // navbar: false
         search: false,
     },
-    base: '/main.husenis.me/'
+    base: '/mainapi-frontend/'
 }

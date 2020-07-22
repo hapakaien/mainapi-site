@@ -5,5 +5,6 @@ module.exports = {
         repo: 'husenisme/mainapi',
         // navbar: false
         search: false,
-    }
+    },
+    base: '/main.husenis.me/'
 }

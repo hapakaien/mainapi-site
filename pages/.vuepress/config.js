@@ -6,5 +6,5 @@ module.exports = {
         // navbar: false
         search: false,
     },
-    base: '/mainapi-frontend/'
+    base: '/mainapi-site/'
 }
